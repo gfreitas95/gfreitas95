@@ -4,8 +4,7 @@ I hope you are very well !
 
 Thanks for looking me 😊
 
-My name is Gustavo, I’m a Brazilian IOS Developer living in São Paulo
-that has been working as a software developer since 2019. 👨🏾‍💻📱
+My name is Gustavo, I’m a Brazilian IOS Developer that has been working as a software developer since 2019. 👨🏾‍💻📱
 
 I’m passionate about learning everyday a little more about the IOS world of development. I hope you find something useful or interesting in my repos, and if you want to collaborate with me or give me some feedbacks and advices about my projects, feel free to contact me ! I’m always open to hear and learn something new, after all, we have to face changes and new challenges everyday to best solving problems, right ?
 
