@@ -14,7 +14,7 @@ I’m trying to learning everyday a little more about the IOS world of developme
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-freitas-rosa-868633114/)
-](https://www.linkedin.com/in/gustavo-freitas-rosa-868633114/)[
+](https://www.linkedin.com/in/gustavo-freitas-868633114?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4t4wMzN7T%2FeoD1Ca0O%2FNbg%3D%3D)[
 ![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983619507&text=Hey%20Gu)
 ](https://api.whatsapp.com/send?phone=5511983619507&text=Hey%20Gu)[
 ![Gmail Badge](https://img.shields.io/badge/-heygu95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heygu95@gmail.com)
